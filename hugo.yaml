@@ -1,0 +1,120 @@
+# If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
+# contain http (as opposed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "https://xiaomizhou.net/"  # 替换为你的实际域名
+title: "Best AI Tools for 2025"
+copyright: "© 2025 Xiaomi Zhou"
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON  # 启用搜索索引
+
+params:
+  env: production
+  description: "Discover the best free AI tools for 2025 to boost productivity in writing, video editing, and image generation. Explore expert-curated top-rated tools now!"
+  keywords: ["free AI tools", "best free AI tools 2025", "2025 tech", "AI writing tools", "AI video editing", "AI image generation", "xiaomizhou AI"]
+  author: "Aries"
+  images: ["/images/logo.png"]
+  defaultTheme: "dark"
+  disableThemeToggle: false
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  comments: false
+
+  homeInfoParams:
+    Title: "Best AI Tools for 2025 \U0001F44B"
+    Content: >
+      👋 Welcome to Best AI Tools for 2025!
+      Our platform is designed to be clean, simple, yet fast and responsive — making it easy for you to explore the top AI tools of 2025. With a thoughtful set of features, we’re here to enhance your experience as you discover, compare, and pick the best AI tools for your needs.
+
+      If you love what we’re building, feel free to show your support by sharing us with friends, fellow tech enthusiasts, or on social media.
+
+      This site draws inspiration from the clean design principles of the classic Paper theme, reimagined for showcasing 2025’s most innovative AI tools.
+
+  # socialIcons:
+  #   - name: github
+  #     url: "https://github.com/yourusername"
+  #   - name: X
+  #     url: "https://x.com/yourusername"
+
+  # editPost:
+  #   URL: "https://github.com/yourusername/your-repo/content"
+  #   Text: "Suggest Changes"
+  #   appendFilePath: true
+
+  assets:
+    disableHLJS: true
+    favicon: "/images/logo.png"
+    favicon16x16: "/images/logo.png"
+    favicon32x32: "/images/logo.png"
+    apple_touch_icon: "/images/logo.png"
+    safari_pinned_tab: "/images/logo.png"
+
+  # 搜索配置
+  ShowSearchBar: true
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
+
+taxonomies:
+  tag: tags
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 10
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 15
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+disableKinds:
+  - RSS  # 注释掉以保持 RSS，移除此行若不需要
