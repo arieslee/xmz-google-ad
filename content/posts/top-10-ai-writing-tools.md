@@ -2,7 +2,7 @@
 title: "Top 10 AI Writing Tools"
 date: 2025-10-23
 description: "Discover the best free AI image generators for 2025 to create stunning visuals for design, marketing, and more!"
-tags: ["AI image generators", "free AI tools", "2025 tech", "AI art"]
+tags: ["AI writing tools", "content creation", "writing assistance", "productivity"]
 author: ["Aries"]
 weight: 100
 cover:

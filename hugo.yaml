@@ -2,7 +2,7 @@
 # contain http (as opposed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://xiaomizhou.net/"  # 替换为你的实际域名
 title: "Best AI Tools for 2025"
-copyright: "© 2025 Xiaomi Zhou"
+copyright: "© 2025 xiaomizhou.net"
 theme: ["PaperMod"]
 
 enableInlineShortcodes: true
