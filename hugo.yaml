@@ -31,7 +31,7 @@ outputs:
 params:
   env: production
   description: "Discover the best free AI tools for 2025 to boost productivity in writing, video editing, and image generation. Explore expert-curated top-rated tools now!"
-  keywords: ["free AI tools", "best free AI tools 2025", "2025 tech", "AI writing tools", "AI video editing", "AI image generation", "xiaomizhou AI"]
+  keywords: ["free AI tools", "best free AI tools 2025", "2025 tech", "AI writing tools", "AI video editing", "AI image generation"]
   author: "Aries"
   images: ["/images/logo.png"]
   defaultTheme: "dark"
