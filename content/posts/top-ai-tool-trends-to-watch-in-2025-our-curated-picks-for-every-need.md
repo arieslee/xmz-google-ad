@@ -6,7 +6,7 @@ tags: ["2025 AI tool trends", "no-code AI tools", "AI productivity tools", "smal
 author: ["Aries"]
 weight: 0
 cover:
-  image: https://xmz-cdn.jianbokeji.net/ai/top-ai-tool-trends-to-watch.png
+  image: /images/uploads/top-ai-tool-trends-to-watch.png
   hiddenInList: true
 ---
 # top-ai-tool-trends-to-watch-in-2025-our-curated-picks-for-every-need

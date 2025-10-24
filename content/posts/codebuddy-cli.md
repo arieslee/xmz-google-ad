@@ -6,7 +6,7 @@ tags: ["AI video editors", "2025 AI tools", "video editing AI", "professional vi
 author: ["Aries"]
 weight: 1
 cover:
-    image: https://qn-cdn.jianbokeji.net/2025/09/30/0.a1e6857a448c1db0a250da24f887291d.png
+    image: /images/uploads/codebuddy-cli.png
     hiddenInList: true
 ---
 

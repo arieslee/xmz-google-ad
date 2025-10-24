@@ -2,86 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:10627/posts/codebuddy-cli/</loc>
+    <loc>http://localhost:1406/posts/claude-vs-gpt-5-codex-two-weeks-of-in-depth-usage/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/posts/top-10-free-ai-image-generator/</loc>
-    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:10627/posts/best-ai-video-editors/</loc>
-    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:10627/posts/top-10-ai-writing-tools/</loc>
-    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:10627/tags/2025-ai-tools/</loc>
+    <loc>http://localhost:1406/posts/codebuddy-cli/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/ai-video-editors/</loc>
+    <loc>http://localhost:1406/posts/top-10-free-ai-image-generator/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1406/posts/best-ai-video-editors/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1406/posts/top-10-ai-writing-tools/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1406/tags/2025-ai-tools/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/</loc>
+    <loc>http://localhost:1406/tags/ai-video-editors/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/posts/</loc>
+    <loc>http://localhost:1406/tags/ai-assisted-programming/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/professional-video-tools/</loc>
+    <loc>http://localhost:1406/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/</loc>
+    <loc>http://localhost:1406/posts/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/video-editing-ai/</loc>
+    <loc>http://localhost:1406/tags/claude-sonnet-4.5/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/2025-ai-tool-trends/</loc>
+    <loc>http://localhost:1406/tags/full-stack-development/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1406/tags/gpt-5-codex/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1406/tags/professional-video-tools/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1406/tags/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1406/tags/video-editing-ai/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1406/tags/2025-ai-tool-trends/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/2025-tech/</loc>
+    <loc>http://localhost:1406/tags/2025-tech/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/ai-art/</loc>
+    <loc>http://localhost:1406/tags/ai-art/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/ai-image-generators/</loc>
+    <loc>http://localhost:1406/tags/ai-image-generators/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/ai-productivity-tools/</loc>
+    <loc>http://localhost:1406/tags/ai-productivity-tools/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/ai-tool-selection-guide/</loc>
+    <loc>http://localhost:1406/tags/ai-tool-selection-guide/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/ai-writing-tools/</loc>
+    <loc>http://localhost:1406/tags/ai-writing-tools/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/best-ai-tools-for-2025/</loc>
+    <loc>http://localhost:1406/tags/best-ai-tools-for-2025/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/content-creation/</loc>
+    <loc>http://localhost:1406/tags/content-creation/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/free-ai-tools/</loc>
+    <loc>http://localhost:1406/tags/free-ai-tools/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/no-code-ai-tools/</loc>
+    <loc>http://localhost:1406/tags/no-code-ai-tools/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/productivity/</loc>
+    <loc>http://localhost:1406/tags/productivity/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/small-business-ai-tools/</loc>
+    <loc>http://localhost:1406/tags/small-business-ai-tools/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/posts/top-ai-tool-trends-to-watch-in-2025-our-curated-picks-for-every-need/</loc>
+    <loc>http://localhost:1406/posts/top-ai-tool-trends-to-watch-in-2025-our-curated-picks-for-every-need/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/tags/writing-assistance/</loc>
+    <loc>http://localhost:1406/tags/writing-assistance/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10627/archives/</loc>
+    <loc>http://localhost:1406/archives/</loc>
   </url><url>
-    <loc>http://localhost:10627/search/</loc>
+    <loc>http://localhost:1406/search/</loc>
   </url>
 </urlset>

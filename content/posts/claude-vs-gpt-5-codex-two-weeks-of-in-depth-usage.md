@@ -6,7 +6,7 @@ tags: ["Claude Sonnet 4.5", "GPT-5-Codex", "AI-assisted programming", "full-stac
 author: ["Aries"]
 weight: 1
 cover:
-    image: https://xmz-cdn.jianbokeji.net/ai/claude-codex.png
+    image: /images/uploads/claude-codex.png
     hiddenInList: true
 ---
 

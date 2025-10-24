@@ -6,7 +6,7 @@ tags: ["AI image generators", "free AI tools", "2025 tech", "AI art"]
 author: ["Aries"]
 weight: 1
 cover:
-  image: https://xmz-cdn.jianbokeji.net/ai/ai-tools.png
+  image: /images/uploads/ai-tools.png
   hiddenInList: true
 ---
 

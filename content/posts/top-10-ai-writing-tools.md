@@ -6,7 +6,7 @@ tags: ["AI writing tools", "content creation", "writing assistance", "productivi
 author: ["Aries"]
 weight: 100
 cover:
-  image: https://xmz-cdn.jianbokeji.net/ai/top-10-ai-writing-tool.png
+  image: /images/uploads/top-10-ai-writing-tool.png
   hiddenInList: true
 ---
 

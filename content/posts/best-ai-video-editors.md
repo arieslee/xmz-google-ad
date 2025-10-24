@@ -6,7 +6,7 @@ tags: ["AI video editors", "2025 AI tools", "video editing AI", "professional vi
 author: ["Aries"]
 weight: 100
 cover:
-    image: https://xmz-cdn.jianbokeji.net/ai/best-ai-videos-editor.png
+    image: /images/uploads/best-ai-videos-editor.png
     hiddenInList: true
 ---
 
