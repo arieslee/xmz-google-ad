@@ -45,7 +45,7 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-  comments: false
+  comments: true
 
   homeInfoParams:
     Title: "Best AI Tools for 2025 \U0001F44B"
@@ -118,3 +118,7 @@ markup:
 
 disableKinds:
   - RSS  # 注释掉以保持 RSS，移除此行若不需要
+
+services:
+  disqus:
+    shortname: xiaomizhou2025
