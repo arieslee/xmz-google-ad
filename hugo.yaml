@@ -45,7 +45,7 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-  comments: true
+  comments: false
 
   homeInfoParams:
     Title: "Best AI Tools for 2025 \U0001F44B"
