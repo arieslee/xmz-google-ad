@@ -122,3 +122,7 @@ disableKinds:
 services:
   disqus:
     shortname: xiaomizhou2025
+
+privacy:
+  disqus:
+    disable: false
