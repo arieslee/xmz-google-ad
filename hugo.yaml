@@ -27,7 +27,9 @@ outputs:
     - HTML
     - RSS
     - JSON  # 启用搜索索引
-
+privacy:
+  disqus:
+    disable: false
 params:
   env: production
   description: "Discover the best free AI tools for 2025 to boost productivity in writing, video editing, and image generation. Explore expert-curated top-rated tools now!"
@@ -45,7 +47,7 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-  comments: false
+  comments: true
   disqus_identifier: true
   disqus_title: true
   disqus_url: true
@@ -125,7 +127,3 @@ disableKinds:
 services:
   disqus:
     shortname: xiaomizhou2025
-
-privacy:
-  disqus:
-    disable: false
