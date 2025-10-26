@@ -46,6 +46,9 @@ params:
   ShowPageNums: true
   ShowToc: true
   comments: false
+  disqus_identifier: true
+  disqus_title: true
+  disqus_url: true
 
   homeInfoParams:
     Title: "Best AI Tools for 2025 \U0001F44B"
