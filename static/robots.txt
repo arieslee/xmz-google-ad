@@ -9,9 +9,5 @@ Allow: /posts/
 # 站点地图地址（重要！帮助搜索引擎快速发现页面）
 Sitemap: https://xiaomizhou.net/sitemap.xml
 
-# 针对特定搜索引擎的规则（可选）
-User-agent: Baiduspider          # 百度爬虫
-Disallow: /private/             # 额外禁止百度抓取的路径
-
-User-agent: Googlebot            # 谷歌爬虫
+User-agent: Googlebot           # 谷歌爬虫
 Allow: /js/                     # 允许谷歌抓取JS（有助于渲染JS生成的内容）
