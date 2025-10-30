@@ -1,56 +1,17 @@
-# As a condition of accessing this website, you agree to abide by the following
-# content signals:
+# 禁止所有搜索引擎抓取的路径（按需修改）
+User-agent: *
+Allow: /            
+Allow: /archives/      
+Allow: /search/            
+Allow: /tags/    
+Allow: /posts/    
 
-# (a)  If a content-signal = yes, you may collect content for the corresponding
-#      use.
-# (b)  If a content-signal = no, you may not collect content for the
-#      corresponding use.
-# (c)  If the website operator does not include a content signal for a
-#      corresponding use, the website operator neither grants nor restricts
-#      permission via content signal with respect to the corresponding use.
+# 站点地图地址（重要！帮助搜索引擎快速发现页面）
+Sitemap: https://xiaomizhou.net/sitemap.xml
 
-# The content signals and their meanings are:
+# 针对特定搜索引擎的规则（可选）
+User-agent: Baiduspider          # 百度爬虫
+Disallow: /private/             # 额外禁止百度抓取的路径
 
-# search:   building a search index and providing search results (e.g., returning
-#           hyperlinks and short excerpts from your website's contents). Search does not
-#           include providing AI-generated search summaries.
-# ai-input: inputting content into one or more AI models (e.g., retrieval
-#           augmented generation, grounding, or other real-time taking of content for
-#           generative AI search answers).
-# ai-train: training or fine-tuning AI models.
-
-# ANY RESTRICTIONS EXPRESSED VIA CONTENT SIGNALS ARE EXPRESS RESERVATIONS OF
-# RIGHTS UNDER ARTICLE 4 OF THE EUROPEAN UNION DIRECTIVE 2019/790 ON COPYRIGHT
-# AND RELATED RIGHTS IN THE DIGITAL SINGLE MARKET.
-
-# BEGIN Cloudflare Managed content
-
-User-Agent: *
-Content-signal: search=yes,ai-train=no
-Allow: /
-
-User-agent: Amazonbot
-Disallow: /
-
-User-agent: Applebot-Extended
-Disallow: /
-
-User-agent: Bytespider
-Disallow: /
-
-User-agent: CCBot
-Disallow: /
-
-User-agent: ClaudeBot
-Disallow: /
-
-User-agent: Google-Extended
-Disallow: /
-
-User-agent: GPTBot
-Disallow: /
-
-User-agent: meta-externalagent
-Disallow: /
-
-# END Cloudflare Managed Content
+User-agent: Googlebot            # 谷歌爬虫
+Allow: /js/                     # 允许谷歌抓取JS（有助于渲染JS生成的内容）
