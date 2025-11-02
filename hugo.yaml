@@ -55,7 +55,7 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-  comments: true
+  comments: false
   disqus_identifier: true
   disqus_title: true
   disqus_url: true
