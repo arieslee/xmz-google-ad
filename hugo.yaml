@@ -105,6 +105,10 @@ taxonomies:
   tag: tags
 menu:
   main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
     - identifier: archives
       name: Archives
       url: /archives/
