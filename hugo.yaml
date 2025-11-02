@@ -1,6 +1,6 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://xiaomizhou.net/"  # 替换为你的实际域名
+baseURL: "https://xiaomizhou.net/" # 替换为你的实际域名
 title: "Best AI Tools for 2025"
 copyright: "© 2025 xiaomizhou.net"
 theme: ["PaperMod"]
@@ -26,17 +26,25 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON  # 启用搜索索引
+    - JSON # 启用搜索索引
 privacy:
   disqus:
     disable: false
 params:
   env: production
   description: "Discover the best free AI tools for 2025 to boost productivity in writing, video editing, and image generation. Explore expert-curated top-rated tools now!"
-  keywords: ["free AI tools", "best free AI tools 2025", "2025 tech", "AI writing tools", "AI video editing", "AI image generation"]
+  keywords:
+    [
+      "free AI tools",
+      "best free AI tools 2025",
+      "2025 tech",
+      "AI writing tools",
+      "AI video editing",
+      "AI image generation",
+    ]
   author: "Aries"
   images: ["/images/logo.png"]
-  defaultTheme: "dark"
+  defaultTheme: "light"
   disableThemeToggle: false
   ShowShareButtons: true
   ShowReadingTime: true
@@ -122,7 +130,7 @@ markup:
     noClasses: false
 
 disableKinds:
-  - RSS  # 注释掉以保持 RSS，移除此行若不需要
+  - RSS # 注释掉以保持 RSS，移除此行若不需要
 
 services:
   disqus:
