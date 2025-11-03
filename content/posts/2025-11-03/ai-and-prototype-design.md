@@ -4,11 +4,7 @@ disqus_identifier: "ai-and-prototype-design"
 disqus_url: "https://xiaomizhou.net/2025-11-03/ai-and-prototype-design/"
 date: 2025-11-03
 description: "To be honest, generating prototypes directly from text is not very recommended. After all, language can hardly describe interface details accurately. Of course, interface design is not achieved overnight. It usually starts with text descriptions of the interface from clients or colleagues. We can first generate a preliminary interface prototype based on these descriptions, and then gradually iterate and optimize it."
-tags: ["Text-to-prototype", "interface details", "preliminary prototype", "iteration and optimization", "AI-generated prototype", "simple text", "low precision requirement", "gpt-4o-mini", "requirement document", "interface description"]
 author: ["Aries"]
-cover:
-    image: /images/uploads/cover-1762156938395.png
-    hiddenInList: true
 weight: 1
 ---
 
@@ -53,7 +49,7 @@ I'm using `gemini-2.0-pro`. Let's take a look at the generated results.
 
 ## Hand-Drawn to Prototype
 In real work scenarios, there is another widely existing situation—describing interfaces through hand-drawn sketches during discussions. This method is far better than describing via text. With the application of multimodal large models, it can also yield good results.
-Here, I have created a simple diagram using draw.io.
+Here, I have created a simple diagram using [draw.io](https://draw.io).
 ![image-20250304141413681.png](/images/uploads/editor-1762156702058.png)
 
 Using `gemini-2.0-pro` with the aforementioned prompt, I personally believe it has highly reproduced the design draft.
