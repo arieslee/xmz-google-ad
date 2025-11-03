@@ -10,9 +10,6 @@ cover:
     hiddenInList: true
 ---
 
-
-# A Full-Stack Developer’s Verdict: Claude Sonnet 4.5 vs. GPT-5-Codex After 2 Weeks of In-Depth Testing  
-## 目录
 1. [First Impression: The Speed Gap](#first-impression-the-speed-gap)
 2. [Quality Showdown: One Critical Test Changed My Mind](#quality-showdown-one-critical-test-changed-my-mind)
 3. [UI Development: Claude’s Uncontested Strength](#ui-development-claudes-uncontested-strength)

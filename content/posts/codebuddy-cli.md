@@ -11,15 +11,6 @@ cover:
 ---
 
 
-
-# First Encounter with CodeBuddy: An AI Software Engineer in the Command Line
-
-That afternoon, I was struggling with refactoring a complex project – needing to migrate dozens of Vue components to React Hooks. Based on past experience, this would take me at least two full days. Just as I was about to start this tedious task, a colleague recommended Tencent's newly released CodeBuddy CLI.
-
-"This thing lets AI write code for you using natural language," he said. "It's like hiring a full-stack engineer right in your command line."
-
-With a skeptical attitude, I began my experience. The result was shocking: what would have taken two days, CodeBuddy helped me complete in 3 hours, and the code quality was surprisingly high.
-
 ## What is CodeBuddy CLI?
 
 

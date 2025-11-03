@@ -12,9 +12,6 @@ cover:
 weight: 1
 ---
 
-# Farewell to Mosaics: Practical Experience and Insights on Enhancing Video Quality with Video2x
-
-As a user with a special affection for old animations and low-resolution game recordings, I have long been searching for an effective way to enhance video quality. That search ended when I discovered Video2x—an open-source tool for AI-driven deep learning-based lossless video upscaling and frame rate enhancement. After using it extensively for a while, I want to share my experience to provide reference for others with similar needs.
 
 ## First Impression: Open-Source, Powerful, and "Hardcore"
 
