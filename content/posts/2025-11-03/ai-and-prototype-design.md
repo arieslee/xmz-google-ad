@@ -43,7 +43,9 @@ Reference product screenshots
 
 You are a skilled developer proficient in HTML, JavaScript, CSS, and TailwindCSS. Please create a web page according to the following requirements: use Font Awesome icons, ensure the page design is beautiful and responsive, and include the necessary HTML structure and styles.
 ```
-You are a skilled developer proficient in HTML, JavaScript, CSS, and TailwindCSS. Please create a web page according to the following requirements: use Font Awesome icons, ensure the page design is beautiful and responsive, and include the necessary HTML structure and styles.
+You are a skilled developer proficient in HTML, JavaScript, CSS, and TailwindCSS. 
+Please create a web page according to the following requirements: 
+use Font Awesome icons, ensure the page design is beautiful and responsive, and include the necessary HTML structure and styles.
 ```
 
 I'm using `gemini-2.0-pro`. Let's take a look at the generated results.
