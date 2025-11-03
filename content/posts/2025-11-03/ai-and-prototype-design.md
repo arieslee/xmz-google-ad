@@ -56,3 +56,5 @@ Here, I have created a simple diagram using draw.io.
 
 Using `gemini-2.0-pro` with the aforementioned prompt, I personally believe it has highly reproduced the design draft.
 ![PixPin_2025-11-03_16-00-57.png](/images/uploads/editor-1762156868059.png)
+
+> Are these three methods above quite good?
