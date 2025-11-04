@@ -31,6 +31,9 @@ privacy:
   disqus:
     disable: false
 params:
+  label:
+    text: "Best AI Tools for 2025"
+    subTitle: "Weekly Hands-On Reviews"
   env: production
   description: "Discover the best free AI tools for 2025 to boost productivity in writing, video editing, and image generation. Explore expert-curated top-rated tools now!"
   keywords:
