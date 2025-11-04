@@ -55,4 +55,5 @@ If developing AI previously felt like training a brilliantly talented yet wild s
 For any team serious about deploying AI applications in a production environment, this is no longer a "nice-to-have" but a "must-have" for stability and trustworthiness. It dramatically reduces the mental overhead of debugging and maintenance, allowing developers to finally shift their focus from "How do I stop the AI from making things up?" to "How can I make the AI truly excel?"
 
 For my fellow developers struggling with the same issues, don't hesitate. Go try **Parlant** out on GitHub yourself. This is undoubtedly a "ballast stone" worth adding to your tech stack.
+
 Project URL: [https://github.com/emcie-co/parlant](https://github.com/emcie-co/parlant)
