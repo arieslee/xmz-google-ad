@@ -6,6 +6,12 @@ author: ["Aries"]
 cover:
     image: /images/uploads/cover-1761369155932.png
     hiddenInList: true
+keywords: 
+  - AI daily tools
+  - Parlant 2.1
+  - RAG speed hack
+  - hallucination fix 2025
+lastmod: 2025-11-04T08:30:00+08:00
 weight: 1
 ---
 

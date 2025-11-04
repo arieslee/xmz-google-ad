@@ -7,7 +7,13 @@ author: ["Aries"]
 weight: 1
 cover:
     image: /images/uploads/claude-codex.png
-    hiddenInList: true
+    hiddenInList: false
+keywords: 
+  - AI daily tools
+  - Parlant 2.1
+  - RAG speed hack
+  - hallucination fix 2025
+lastmod: 2025-11-04T08:30:00+08:00
 ---
 
 1. [First Impression: The Speed Gap](#first-impression-the-speed-gap)

@@ -7,7 +7,13 @@ author: ["Aries"]
 weight: 100
 cover:
     image: /images/uploads/best-ai-videos-editor.png
-    hiddenInList: true
+    hiddenInList: false
+keywords: 
+  - AI daily tools
+  - Parlant 2.1
+  - RAG speed hack
+  - hallucination fix 2025
+lastmod: 2025-11-04T08:30:00+08:00
 ---
 
 ## 1. Runway ML Gen-3
