@@ -38,27 +38,6 @@
     "anchored_headings.html" .Content -}} {{- else }}{{ .Content }}{{ end }}
   </div>
   {{- end }}
-
-  <div class="google-ad">
-    <script
-      async
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5478679201552725"
-      crossorigin="anonymous"
-    ></script>
-    <!-- 小米粥详情 -->
-    <ins
-      class="adsbygoogle"
-      style="display: block"
-      data-ad-client="ca-pub-5478679201552725"
-      data-ad-slot="5859901183"
-      data-ad-format="auto"
-      data-full-width-responsive="true"
-    ></ins>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-  </div>
-
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">

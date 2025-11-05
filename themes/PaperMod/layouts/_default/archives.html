@@ -27,23 +27,6 @@
   <div class="post-description">{{ .Description }}</div>
   {{- end }}
 </header>
-<script
-  async
-  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5478679201552725"
-  crossorigin="anonymous"
-></script>
-<!-- 小米粥archives页 -->
-<ins
-  class="adsbygoogle"
-  style="display: block"
-  data-ad-client="ca-pub-5478679201552725"
-  data-ad-slot="1364346308"
-  data-ad-format="auto"
-  data-full-width-responsive="true"
-></ins>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- if site.Params.ShowAllPagesInArchive }} {{- $pages = site.RegularPages }}
 {{- end }} {{- range $pages.GroupByPublishDate "2006" }} {{- if ne .Key "0001"
