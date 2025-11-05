@@ -50,7 +50,5 @@ git commit -m "$message"
 # 推送分支和标签到远程仓库
 echo -e "${BLUE}正在推送分支到远程仓库${NC}"
 git push origin "$branch"
-echo -e "${BLUE}正在推送标签到远程仓库${NC}"
-git push origin "$version"
 
 echo -e "${GREEN}操作成功！${NC}"
