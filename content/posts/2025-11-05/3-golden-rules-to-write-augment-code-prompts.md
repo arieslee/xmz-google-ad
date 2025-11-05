@@ -8,7 +8,7 @@ description: "Recently, Augment’s user experience has been unstable, so I’ve
 tags: ["Best Ai Tools", "Augment Code", "ProgrammerEfficiency", "ProgrammingTools", "FrontendDevelopment"]
 author: ["Aries"]
 cover:
-    image: /images/uploads/cover-1762303890791.jpg
+    image: /images/uploads/cover-1762303890791.png
     hiddenInList: false
 keywords:
     - "Best Ai Tools"
