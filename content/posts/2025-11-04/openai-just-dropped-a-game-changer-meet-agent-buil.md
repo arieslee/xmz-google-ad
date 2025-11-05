@@ -3,6 +3,7 @@ title: "OpenAI Just Dropped a Game-Changer! Meet Agent Builder – Your New AI \
 disqus_identifier: "openai-just-dropped-a-game-changer-meet-agent-buil"
 disqus_url: "https://xiaomizhou.net/2025-11-04/openai-just-dropped-a-game-changer-meet-agent-buil/"
 date: 2025-11-04
+lastmod: 2025-11-05T08:51:30+08:00
 description: "🔥 That's right, OpenAI has done it again – introducing **Agent Builder**!  
 A powerful new tool that lets you build AI agents visually, drag-and-drop modules like LEGO bricks, and define tasks to make AI work for you like your own personal assistant!"
 tags: ["AI Agent Builder", "no-code automation", "GPT-4 templates", "workflow optimization"]
