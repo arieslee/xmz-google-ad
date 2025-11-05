@@ -9,7 +9,12 @@ tags: ["AI Agent Builder", "no-code automation", "GPT-4 templates", "workflow op
 author: ["Aries"]
 cover:
     image: /images/uploads/cover-1762216842612.jpg
-    hiddenInList: true
+    hiddenInList: false
+keywords:
+    - "AI Agent Builder"
+    - "no-code automation"
+    - "GPT-4 templates"
+    - "workflow optimization"
 weight: 1
 ---
 

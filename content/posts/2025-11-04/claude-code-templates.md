@@ -12,6 +12,7 @@ cover:
     hiddenInList: false
 keywords:
     - "Claude Code"
+    - "Claude Code Templates"
 weight: 1
 slug: "claude-code-templates"
 ---

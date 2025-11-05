@@ -3,12 +3,19 @@ title: "No More AI Hallucinations: A Hands-On with Parlant"
 disqus_identifier: "no-more-ai-hallucinations-a-hands-on-with-parlant"
 disqus_url: "https://xiaomizhou.net/2025-11-04/no-more-ai-hallucinations-a-hands-on-with-parlant/"
 date: 2025-11-04
+lastmod: 2025-11-05T08:51:30+08:00
 description: "Every AI application developer has experienced that heart-dropping moment—from the peaks of heaven to the depths of hell in an instant. You spend days meticulously crafting the perfect system prompt. It performs flawlessly in testing, answering questions logically and consistently. You deploy it to production, ready for user acclaim."
 tags: ["Parlant", "AI Hallucinations", "Production Reliability", "Rule-based Guardrails", "Decision Transparency"]
 author: ["Aries"]
 cover:
     image: /images/uploads/cover-1762216197838.png
-    hiddenInList: true
+    hiddenInList: false
+keywords:
+    - "Parlant"
+    - "AI Hallucinations"
+    - "Production Reliability"
+    - "Rule-based Guardrails"
+    - "Decision Transparency"
 weight: 1
 ---
 
