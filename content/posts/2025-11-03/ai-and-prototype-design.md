@@ -3,10 +3,23 @@ title: "AI and Prototype Design"
 disqus_identifier: "ai-and-prototype-design"
 disqus_url: "https://xiaomizhou.net/2025-11-03/ai-and-prototype-design/"
 date: 2025-11-03
+lastmod: 2025-11-05T08:51:30+08:00
 description: "To be honest, generating prototypes directly from text is not very recommended. After all, language can hardly describe interface details accurately. Of course, interface design is not achieved overnight. It usually starts with text descriptions of the interface from clients or colleagues. We can first generate a preliminary interface prototype based on these descriptions, and then gradually iterate and optimize it."
 author: ["Aries"]
+tags: ["Best Ai Tools", "Prototype Generation", "Text-to-Prototype", "Screenshot-to-Prototype", "Hand-Drawn-to-Prototype","AI (Multimodal Large Models)"]
+cover:
+    image: /images/uploads/editor-1762156270115.png
+    hiddenInList: false
+keywords:
+    - "Best Ai Tools"
+    - "Prototype Generation"
+    - "Text-to-Prototype"
+    - "Screenshot-to-Prototype"
+    - "Hand-Drawn-to-Prototype"
+    - "AI (Multimodal Large Models)"
 weight: 1
 ---
+
 
 To be honest, generating prototypes directly from text is not very recommended. After all, language can hardly describe interface details accurately. Of course, interface design is not achieved overnight. It usually starts with text descriptions of the interface from clients or colleagues. We can first generate a preliminary interface prototype based on these descriptions, and then gradually iterate and optimize it.
 
