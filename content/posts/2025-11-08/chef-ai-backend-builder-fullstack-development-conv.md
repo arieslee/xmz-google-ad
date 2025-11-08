@@ -7,7 +7,7 @@ tags: ["Chef AI", "backend builder", "full-stack development", "Convex database"
 author: ["Aries"]
 cover:
     image: /images/uploads/cover-1762563448899.png
-    hiddenInList: true
+    hiddenInList: false
 keywords:
     - "Chef AI"
     - "backend builder"
