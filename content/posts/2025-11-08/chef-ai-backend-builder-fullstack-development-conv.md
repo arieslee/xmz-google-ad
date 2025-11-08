@@ -34,4 +34,5 @@ Built on Convex, it ensures reliable data real-time synchronization and backend 
 Check out the links below and go explore it for yourself!
 
 🔗 Repository: [https://github.com/get-convex/chef](https://github.com/get-convex/chef)
+
 🔗 Official Website: [https://chef.convex.dev/](https://chef.convex.dev/)
