@@ -7,7 +7,7 @@ tags: ["Goose AI", "development automation", "code generation", "AI programming 
 author: ["Aries"]
 cover:
     image: /images/uploads/cover-1762652640358.png
-    hiddenInList: true
+    hiddenInList: false
 keywords:
     - "Goose AI"
     - "development automation"
