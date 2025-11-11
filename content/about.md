@@ -5,6 +5,7 @@ draft: false
 layout: "about"
 ---
 
+{{< figure src="/images/avatar.png" alt="Aries - AI Tool Hunter" width="180" class="avatar rounded-full mx-auto mb-6" >}}
 
 ## Hi, I'm **Aries** 👋
 
