@@ -20,7 +20,7 @@ minify:
 
 pagination:
   disableAliases: false
-  pagerSize: 5
+  pagerSize: 10
 
 outputs:
   home:
@@ -47,7 +47,7 @@ params:
     ]
   author: "Aries"
   images: ["/images/logo.png"]
-  defaultTheme: "light"
+  defaultTheme: "dark"
   disableThemeToggle: false
   ShowShareButtons: true
   ShowReadingTime: true
@@ -128,6 +128,10 @@ menu:
       name: Search
       url: /search/
       weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 21
 
 markup:
   goldmark:
