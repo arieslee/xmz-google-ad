@@ -1,5 +1,5 @@
 ---
-title: "Is it too cumbersome to manage and switch models in Claude Code and Codex? Two tools can easily get the job done."
+title: "Is it too cumbersome to manage and switch models in Claude Code and Codex? One tool can easily get the job done."
 disqus_identifier: "claude-code-model-management-tools-cc-switch-cherr"
 disqus_url: "https://xiaomizhou.net/2025-11-14/claude-code-model-management-tools-cc-switch-cherr/"
 date: 2025-11-14
@@ -35,7 +35,7 @@ For beginners, I highly recommend cc-switch and Cherry Studio. The former is an 
 
 ---
 
-**Model Management Tool 1: cc-switch**
+**Model Management Tool: cc-switch**
 
 **Project Address:** [https://github.com/farion1231/cc-switch](https://github.com/farion1231/cc-switch)
 
